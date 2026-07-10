@@ -1,0 +1,1 @@
+This section contains templates that can applied to any projects. 
